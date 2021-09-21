@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesús (@jmrr92).
-- 👀 I’m interested in iOS and Android app development.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Web, iOS and Android app development.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me -> Email: jesusmanuelrodriguezruiz@gmail.com / LinkedIn: https://www.linkedin.com/in/jmrr92/
 
